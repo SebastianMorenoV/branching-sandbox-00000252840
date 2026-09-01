@@ -1,7 +1,14 @@
 text
 APP_NAME=OrderFlow
 TIMEOUT=60
+<<<<<<< HEAD
 LOG_LEVEL=CHECK
 OWNER=team-a
 STATUS=ACTIVE
 BATTERY=50
+=======
+LOG_LEVEL=WARNING
+OWNER=team-a
+REGION=America
+RETRIES=4
+>>>>>>> feature/long-lived
