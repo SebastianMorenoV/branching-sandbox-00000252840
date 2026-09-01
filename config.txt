@@ -2,3 +2,4 @@ text
 APP_NAME=OrderFlow
 TIMEOUT=30
 LOG_LEVEL=INFO
+OWNER=team-a
