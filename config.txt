@@ -1,5 +1,5 @@
 text
 APP_NAME=OrderFlow
-TIMEOUT=30
+TIMEOUT=60
 LOG_LEVEL=INFO
 OWNER=team-a
